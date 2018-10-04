@@ -1,4 +1,4 @@
-# acronym-data-visuals
+# demographics-by-the-numbers
 A collection of data science visuals created through R and Plotly for The Acronym Newspaper at the Illinois Math and Science Academy.
 
 All data obtained through a 2017 FOIA request to the Illinois Math and Science Academy.
